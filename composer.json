@@ -1,5 +1,6 @@
 {
   "name": "fastfoxai/root",
+  "description": "FastFoxAI Root Package",
   "autoload": {
     "psr-4": {
       "FastFoxAi\\Root\\": "src/"
