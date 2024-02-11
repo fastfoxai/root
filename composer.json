@@ -1,0 +1,14 @@
+{
+  "name": "fastfoxai/root",
+  "autoload": {
+    "psr-4": {
+      "FastFoxAi\\Root\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "FastFoxAI"
+    }
+  ],
+  "require": {}
+}
